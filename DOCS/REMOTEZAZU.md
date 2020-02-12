@@ -12,8 +12,8 @@
   ],
   "task": "detection",
   "dataloop": {
-    "project": "buffs_project",
-    "dataset": "tiny_mice_data"
+    "project_id": "id",
+    "dataset_id": "id"
   }
 }
 ```
